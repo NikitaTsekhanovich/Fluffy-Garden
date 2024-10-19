@@ -7,3 +7,11 @@
 
 # Особенности
 Скины и бэкграунды в магазине реализованы через ScriptableObject, что дает возможность быстро создавать новые предметы для магазина не переписывая код. Так как, есть два типа данных (скины и бэкграунды), контроллеры магазина реализованы без привязки к типам и работают через интерфейсы, что позволяет создавать новые разновидности предметов без переписывания логики магазина. Достаточно будет создать новый ScriptableObject и унаследовать интерфейсы. Дополнительный магазин на сцене в canvas также создавать не придется, все работает через один блок.
+
+# Скриншоты
+
+![Image Sequence_005_0000](https://github.com/user-attachments/assets/adbf0a64-cd7b-49a8-944a-28b6cc80b5d4)
+![Image Sequence_004_0000](https://github.com/user-attachments/assets/c0072c7d-3167-4875-8f75-b603a84a6e1b)
+![Image Sequence_003_0000](https://github.com/user-attachments/assets/08b8ee9a-2138-4e0a-9b1d-6f4889c5e9c6)
+![Image Sequence_002_0000](https://github.com/user-attachments/assets/7bc86606-e923-43de-a011-eab22d6f7357)
+![Image Sequence_001_0000](https://github.com/user-attachments/assets/1e9b6624-410d-4c0b-b97b-b679d3ba72b0)
